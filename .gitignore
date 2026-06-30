@@ -39,7 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# private assets (not for public repo)
-/public/photo.JPEG
-/public/resume.pdf

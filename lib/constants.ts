@@ -4,7 +4,7 @@ export const siteConfig = {
   email: "sharun.naicker12@gmail.com",
   location: "Dallas, TX",
   github: "https://github.com/sharunnaicker",
-  linkedin: "https://linkedin.com/in/sharunnaicker",
+  linkedin: "https://www.linkedin.com/in/sharun-naicker/",
   resume: "/resume.pdf",
 } as const;
 
